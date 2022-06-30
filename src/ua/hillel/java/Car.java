@@ -1,4 +1,4 @@
-package com.company;
+package ua.hillel.java;
 
 public class Car {
     String name;
